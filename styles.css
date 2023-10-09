@@ -121,6 +121,7 @@ body {
   text-align: center;
   font-size: 1.375rem;
   font-weight: var(--fontWeight-bold);
+  line-height: normal;
 }
 
 .card__content {
